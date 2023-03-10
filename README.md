@@ -1,4 +1,4 @@
-# Machine Learninga
+# Machine Learning
 Coding solutions to multiple machine learning problems like image classification and clustering using different algorithms like Fisher’s Linear Discriminant, Naïve Bayes, Maximum Likelihood Estimation, and K-means.
 
 ## Note
